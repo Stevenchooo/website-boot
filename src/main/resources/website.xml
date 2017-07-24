@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<puyun>
+	<setting name="image1" value="/adminresources/img/sea.png" />
+	<setting name="image2" value="/adminresources/img/sea.png" />
+	<setting name="image3" value="/adminresources/img/sea.png" />
+</puyun>
